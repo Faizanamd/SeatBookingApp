@@ -36,3 +36,5 @@ This project consists of an HTML, CSS, and JavaScript implementation of a movie 
 **Note:** This project offers a simple example of a movie theater seating selection interface. You can extend and modify it to suit your specific requirements, such as integrating with backend services for booking and payment processing.
 
 
+Deploy link: https://faizanamd.github.io/SeatBookingApp/
+
